@@ -12,3 +12,7 @@
   * [](docs/ES6/)
   * [](docs/ES6/)
   * [](docs/ES6/)
+  
+
+* AJAX  
+	* [javascript_ajax](docs/AJAX/javascript_ajax.md)
