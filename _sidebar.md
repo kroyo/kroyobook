@@ -16,3 +16,7 @@
 
 * AJAX  
 	* [javascript_ajax](docs/AJAX/javascript_ajax.md)
+	
+
+* 微信   
+	* [H5同层播放器接入规范](docs/微信/H5同层播放器接入规范.md)
